@@ -1,2 +1,2 @@
 # Foodsalesdashboard
-I created dashboard using excel.
+I created dashboard using Excel.
